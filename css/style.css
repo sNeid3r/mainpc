@@ -1,5 +1,25 @@
 * {
-    background-color: #d8d8d8;
-    font-family: "Roboto";
-    font-size: 18px;
+    background: #d8d8d8;
+    text-align: center;
 }
+
+p, h1 {
+    color: #ffffff;
+    background: rgb(150, 150, 150);
+}
+
+form {
+    margin-top: 40px;
+}
+
+.header {
+    margin: 0 auto;
+    position: relative;
+    max-width: 900px;
+    color: #ffffff;
+    text-align: center;
+    border: 2px solid black;
+    background: rgb(150, 150, 150);
+    margin-bottom: 25px;
+}
+
